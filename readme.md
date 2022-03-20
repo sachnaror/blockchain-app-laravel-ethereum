@@ -5,8 +5,11 @@ Tried to grasp the basics of blockchain app and made hands dirty by building a p
 ## Necessary Links
 
 [MetaMask](https://metamask.io/)
+
 [Truffle](https://www.trufflesuite.com/)
+
 [Ganache](https://www.trufflesuite.com/ganache)
+
 [web3.js](https://web3js.readthedocs.io)
 
 ## Usage
