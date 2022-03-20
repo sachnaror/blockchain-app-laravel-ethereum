@@ -1,6 +1,6 @@
-# Blockchain app 'Property Registry' using Laravel
+# blockchain-app-laravel-ethereum
 
-This is a pet project built on Laravel and Ethereum to understand the basic of decentralized application.
+Tried to grasp the basics of blockchain app and made hands dirty by building a practical application with Laravel and Ethereum
 
 ## Necessary Links
 
