@@ -1,6 +1,6 @@
 # Blockchain-app-laravel-ethereum
 
-Tried to grasp the basics of blockchain app and made hands dirty by building a practical application with Laravel and Ethereum
+Tried to grasp the basics of blockchain app by building a practical application with Laravel and Ethereum
 
 ## Necessary Links
 
