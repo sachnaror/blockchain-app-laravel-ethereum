@@ -2,7 +2,7 @@
 
 Tried to grasp the basics of blockchain app by building a practical application with Laravel and Ethereum
 
-## Necessary Links
+## Important Links
 
 [MetaMask](https://metamask.io/)
 
